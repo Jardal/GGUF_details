@@ -92,3 +92,12 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ```
 
 ```
+
+###Fuck the EU AI Act:
+
+LICENSE AGREEMENT & DISCLAIMER: This software and its source code were generated using 
+automated data processing systems (AI) based on user instructions. The software is provided 
+'AS IS', without warranties of title, originality, non-infringement, merchantability, or 
+fitness for a particular purpose. Neither the author nor the provider guarantees freedom 
+from third-party rights or training data patents. All risks associated with operation, 
+maintenance, modification, or third-party claims are borne solely by the end user.
